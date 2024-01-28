@@ -1,4 +1,3 @@
-# MyJavaPrograms
-This is my first repository for my java learning.
-Author - Yash Sharma
-         BCA final year student
+<h1> MyJavaPrograms </h1>
+<p>This is my new repository for java programs</p>
+
